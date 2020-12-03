@@ -1,0 +1,151 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-dialog-component@^0.2.16",
+        "scope": null,
+        "escapedName": "react-native-dialog-component",
+        "name": "react-native-dialog-component",
+        "rawSpec": "^0.2.16",
+        "spec": ">=0.2.16 <0.3.0",
+        "type": "range"
+      },
+      "/Users/bapvn/Dev/SourceCode/ReactNative/tokubuy-app"
+    ]
+  ],
+  "_from": "react-native-dialog-component@>=0.2.16 <0.3.0",
+  "_id": "react-native-dialog-component@0.2.16",
+  "_inCache": true,
+  "_location": "/react-native-dialog-component",
+  "_nodeVersion": "7.2.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-dialog-component-0.2.16.tgz_1503626790144_0.044770509004592896"
+  },
+  "_npmUser": {
+    "name": "jacklam",
+    "email": "jacklam718@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {
+    "babel-plugin-check-es2015-constants": "6.22.0",
+    "babel-plugin-react-transform": "2.0.2",
+    "babel-plugin-syntax-async-functions": "6.13.0",
+    "babel-plugin-syntax-class-properties": "6.13.0",
+    "babel-plugin-syntax-dynamic-import": "6.18.0",
+    "babel-plugin-syntax-flow": "6.18.0",
+    "babel-plugin-syntax-jsx": "6.18.0",
+    "babel-plugin-syntax-trailing-function-commas": "6.22.0",
+    "babel-plugin-transform-class-properties": "6.24.1",
+    "babel-plugin-transform-es2015-arrow-functions": "6.22.0",
+    "babel-plugin-transform-es2015-block-scoping": "6.26.0",
+    "babel-plugin-transform-es2015-classes": "6.24.1",
+    "babel-plugin-transform-es2015-computed-properties": "6.24.1",
+    "babel-plugin-transform-es2015-destructuring": "6.23.0",
+    "babel-plugin-transform-es2015-for-of": "6.23.0",
+    "babel-plugin-transform-es2015-function-name": "6.24.1",
+    "babel-plugin-transform-es2015-literals": "6.22.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "6.26.0",
+    "babel-plugin-transform-es2015-parameters": "6.24.1",
+    "babel-plugin-transform-es2015-shorthand-properties": "6.24.1",
+    "babel-plugin-transform-es2015-spread": "6.22.0",
+    "babel-plugin-transform-es2015-template-literals": "6.22.0",
+    "babel-plugin-transform-flow-strip-types": "6.22.0",
+    "babel-plugin-transform-object-assign": "6.22.0",
+    "babel-plugin-transform-object-rest-spread": "6.26.0",
+    "babel-plugin-transform-react-display-name": "6.25.0",
+    "babel-plugin-transform-react-jsx": "6.24.1",
+    "babel-plugin-transform-react-jsx-source": "6.22.0",
+    "babel-plugin-transform-regenerator": "6.26.0",
+    "babel-template": "6.26.0",
+    "react-transform-hmr": "1.0.4"
+  },
+  "_requested": {
+    "raw": "react-native-dialog-component@^0.2.16",
+    "scope": null,
+    "escapedName": "react-native-dialog-component",
+    "name": "react-native-dialog-component",
+    "rawSpec": "^0.2.16",
+    "spec": ">=0.2.16 <0.3.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-dialog-component/-/react-native-dialog-component-0.2.16.tgz",
+  "_shasum": "6a745fc892f606fbd6a105324d697c303ce1b3c5",
+  "_shrinkwrap": null,
+  "_spec": "react-native-dialog-component@^0.2.16",
+  "_where": "/Users/bapvn/Dev/SourceCode/ReactNative/tokubuy-app",
+  "author": {
+    "name": "jacklam",
+    "email": "jacklam718@gmail.com",
+    "url": "https://github.com/jacklam718"
+  },
+  "bugs": {
+    "url": "https://github.com/jacklam718/react-native-popup-dialog/issues"
+  },
+  "dependencies": {
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-react-native": "^3.0.1",
+    "prop-types": "^15.5.10",
+    "react-native-popup-dialog": "^0.9.35",
+    "react-native-root-siblings": "^1.1.2"
+  },
+  "description": "React Native Dialog Component for IOS & Android.",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "babel-plugin-flow-react-proptypes": "^5.1.1",
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.3.0",
+    "flow-bin": "^0.53.1",
+    "react": "^15.6.1",
+    "react-native": "^0.47.2",
+    "rimraf": "^2.6.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "6a745fc892f606fbd6a105324d697c303ce1b3c5",
+    "tarball": "https://registry.npmjs.org/react-native-dialog-component/-/react-native-dialog-component-0.2.16.tgz"
+  },
+  "gitHead": "a3cb3c6fb63b56b97f59eb3db788c626922caf6f",
+  "homepage": "https://github.com/jacklam718/react-native-popup-dialog/blob/master/README.md",
+  "keywords": [
+    "dialog",
+    "component",
+    "react dialog",
+    "react dialog component",
+    "react-native",
+    "react-native-dialog-component",
+    "react-native-dialog",
+    "react native dialog",
+    "popup-dialog",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "maintainers": [
+    {
+      "name": "jacklam",
+      "email": "jacklam718@gmail.com"
+    }
+  ],
+  "name": "react-native-dialog-component",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacklam718/react-native-popup-dialog.git"
+  },
+  "scripts": {
+    "build": "npm run clean && babel src/ -d dist/",
+    "clean": "rimraf dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.16"
+}

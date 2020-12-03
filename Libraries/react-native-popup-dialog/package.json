@@ -1,0 +1,126 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-popup-dialog@^0.9.35",
+        "scope": null,
+        "escapedName": "react-native-popup-dialog",
+        "name": "react-native-popup-dialog",
+        "rawSpec": "^0.9.35",
+        "spec": ">=0.9.35 <0.10.0",
+        "type": "range"
+      },
+      "/Users/bapvn/Dev/SourceCode/ReactNative/tokubuy-app"
+    ]
+  ],
+  "_from": "react-native-popup-dialog@>=0.9.35 <0.10.0",
+  "_id": "react-native-popup-dialog@0.9.36",
+  "_inCache": true,
+  "_location": "/react-native-popup-dialog",
+  "_nodeVersion": "7.10.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-popup-dialog-0.9.36.tgz_1506755524812_0.6764692428987473"
+  },
+  "_npmUser": {
+    "name": "jacklam",
+    "email": "jacklam718@gmail.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-popup-dialog@^0.9.35",
+    "scope": null,
+    "escapedName": "react-native-popup-dialog",
+    "name": "react-native-popup-dialog",
+    "rawSpec": "^0.9.35",
+    "spec": ">=0.9.35 <0.10.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-popup-dialog/-/react-native-popup-dialog-0.9.36.tgz",
+  "_shasum": "b813f057699247436c9a6320f6d71234afe2c1d5",
+  "_shrinkwrap": null,
+  "_spec": "react-native-popup-dialog@^0.9.35",
+  "_where": "/Users/bapvn/Dev/SourceCode/ReactNative/tokubuy-app",
+  "author": {
+    "name": "jacklam",
+    "email": "jacklam718@gmail.com",
+    "url": "https://github.com/jacklam718"
+  },
+  "bugs": {
+    "url": "https://github.com/jacklam718/react-native-popup-dialog/issues"
+  },
+  "dependencies": {
+    "babel-plugin-flow-react-proptypes": "^5.1.1",
+    "prop-types": "^15.5.8"
+  },
+  "description": "React Native Popup Dialog for IOS & Android.",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^7.2.3",
+    "babel-jest": "20.0.3",
+    "babel-preset-react-native": "^3.0.1",
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.3.0",
+    "flow-bin": "^0.53.1",
+    "jest": "^20.0.4",
+    "jest-react-native": "^18.0.0",
+    "react": "^15.6.1",
+    "react-native": "0.42",
+    "react-test-renderer": "^15.6.1",
+    "rimraf": "^2.6.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "b813f057699247436c9a6320f6d71234afe2c1d5",
+    "tarball": "https://registry.npmjs.org/react-native-popup-dialog/-/react-native-popup-dialog-0.9.36.tgz"
+  },
+  "gitHead": "7b3c445c8ae6e77f2f840340af0e0f24442c84d7",
+  "homepage": "https://github.com/jacklam718/react-native-popup-dialog/blob/master/README.md",
+  "jest": {
+    "preset": "jest-react-native",
+    "modulePathIgnorePatterns": [
+      "popup-dialog-example/node_modules"
+    ]
+  },
+  "keywords": [
+    "dialog",
+    "popup",
+    "react dialog",
+    "react-native",
+    "react-native-popup-dialog",
+    "react-native-dialog",
+    "react native dialog",
+    "popup-dialog",
+    "react-component",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "maintainers": [
+    {
+      "name": "jacklam",
+      "email": "jacklam718@gmail.com"
+    }
+  ],
+  "name": "react-native-popup-dialog",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacklam718/react-native-popup-dialog.git"
+  },
+  "scripts": {
+    "build": "npm run clean && babel src/ -d dist/",
+    "clean": "rimraf dist",
+    "test": "jest"
+  },
+  "version": "0.9.36"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="27px" viewBox="0 0 18 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_location</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="14_Add_Transaction" transform="translate(-47.000000, -743.000000)" stroke="#7B7B7B" stroke-width="2">
+            <g id="form" transform="translate(16.000000, 554.000000)">
+                <g id="location" transform="translate(24.000000, 186.000000)">
+                    <path d="M16,4 C11.581722,4 8,7.64242915 8,12.1355932 C8,19.4576271 16,28 16,28 C16,28 24,19.4576271 24,12.1355932 C24,7.64242915 20.418278,4 16,4 Z M16,15.3898305 C17.7673112,15.3898305 19.2,13.9328588 19.2,12.1355932 C19.2,10.3383276 17.7673112,8.88135593 16,8.88135593 C14.2326888,8.88135593 12.8,10.3383276 12.8,12.1355932 C12.8,13.9328588 14.2326888,15.3898305 16,15.3898305 Z" id="ic_location"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

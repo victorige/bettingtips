@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">851022395261-ekmiodqbhe46o0e0kob18hhr6v7b6d4m.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://betting-tip-7e4a5.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">851022395261</string>
+    <string name="google_api_key" translatable="false">AIzaSyCs-m74kWuw3hMq1S3_PntjwQecURA80_w</string>
+    <string name="google_app_id" translatable="false">1:851022395261:android:21d0914a597ca99138be14</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCs-m74kWuw3hMq1S3_PntjwQecURA80_w</string>
+    <string name="google_storage_bucket" translatable="false">betting-tip-7e4a5.appspot.com</string>
+    <string name="project_id" translatable="false">betting-tip-7e4a5</string>
+</resources>

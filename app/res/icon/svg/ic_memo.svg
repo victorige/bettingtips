@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_memo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="09_Create_Wallet" transform="translate(-46.000000, -290.000000)" fill="#7B7B7B" fill-rule="nonzero">
+            <g id="form" transform="translate(16.000000, 258.000000)">
+                <g id="name" transform="translate(16.000000, 24.000000)">
+                    <path d="M15,10 C14.4477153,10 14,9.55228475 14,9 C14,8.44771525 14.4477153,8 15,8 L33,8 C33.5522847,8 34,8.44771525 34,9 C34,9.55228475 33.5522847,10 33,10 L15,10 Z M15,17 C14.4477153,17 14,16.5522847 14,16 C14,15.4477153 14.4477153,15 15,15 L33,15 C33.5522847,15 34,15.4477153 34,16 C34,16.5522847 33.5522847,17 33,17 L15,17 Z M15,24 C14.4477153,24 14,23.5522847 14,23 C14,22.4477153 14.4477153,22 15,22 L27,22 C27.5522847,22 28,22.4477153 28,23 C28,23.5522847 27.5522847,24 27,24 L15,24 Z" id="ic_memo"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

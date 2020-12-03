@@ -1,0 +1,4 @@
+#Thu Sep 10 00:11:18 WAT 2020
+base.0=/Users/victor/React/Bettingtip/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

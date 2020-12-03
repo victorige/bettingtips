@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_back</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="36_Add_Wallet" transform="translate(-327.000000, -235.000000)" fill="#9B9B9B" fill-rule="nonzero">
+            <g id="form" transform="translate(16.000000, 120.000000)">
+                <g id="currency" transform="translate(16.000000, 105.000000)">
+                    <path d="M295.21868,20.8351647 C294.949655,21.0798447 294.92552,21.501232 295.164773,21.7763594 C295.404026,22.0514869 295.816066,22.0761694 296.085091,21.8314894 L302.5,15.9970843 L296.084849,10.1682908 C295.815706,9.92374744 295.403677,9.9486392 295.164558,10.2238881 C294.925439,10.499137 294.949778,10.920512 295.218922,11.1650553 L300.537586,15.9975825 L295.21868,20.8351647 Z" id="ic_back" transform="translate(298.750000, 16.000000) scale(-1, 1) translate(-298.750000, -16.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

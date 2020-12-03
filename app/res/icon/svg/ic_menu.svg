@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="16px" viewBox="0 0 20 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_menu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="13_Home" transform="translate(-15.000000, -58.000000)" fill="#323334" fill-rule="nonzero">
+            <g id="Navigation-Bar---Hierarchical">
+                <g id="left" transform="translate(0.000000, 44.000000)">
+                    <path d="M16,16 C15.4477153,16 15,15.5522847 15,15 C15,14.4477153 15.4477153,14 16,14 L34,14 C34.5522847,14 35,14.4477153 35,15 C35,15.5522847 34.5522847,16 34,16 L16,16 Z M16,23 C15.4477153,23 15,22.5522847 15,22 C15,21.4477153 15.4477153,21 16,21 L34,21 C34.5522847,21 35,21.4477153 35,22 C35,22.5522847 34.5522847,23 34,23 L16,23 Z M16,30 C15.4477153,30 15,29.5522847 15,29 C15,28.4477153 15.4477153,28 16,28 L34,28 C34.5522847,28 35,28.4477153 35,29 C35,29.5522847 34.5522847,30 34,30 L16,30 Z" id="ic_menu"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

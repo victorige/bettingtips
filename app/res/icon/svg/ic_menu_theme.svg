@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_menu_theme_active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="25_Menu" transform="translate(-32.000000, -384.000000)" fill="#3E82FE" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(32.000000, 381.000000)">
+                <g id="wallet">
+                    <path d="M0,10.0005 L2.232,10.0005 L8,13.0005 L13.768,10.0005 L16,10.0005 L8,14.0005 L0,10.0005 Z M0,6.9995 L8,3 L16,6.9995 L8,11 L0,6.9995 Z M8,3.9995 L2,6.889 L8,10.0005 L14,6.889 L8,3.9995 Z M8,16 L13.768,13 L16,13 L8,17 L0,13 L2.232,13 L8,16 Z" id="ic_menu_theme_active"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

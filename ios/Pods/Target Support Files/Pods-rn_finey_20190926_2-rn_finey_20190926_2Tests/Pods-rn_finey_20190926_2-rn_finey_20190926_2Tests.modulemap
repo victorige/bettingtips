@@ -1,0 +1,6 @@
+module Pods_elitebettingtips_elitebettingtipsTests {
+  umbrella header "Pods-elitebettingtips-elitebettingtipsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

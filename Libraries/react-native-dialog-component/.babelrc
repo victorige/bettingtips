@@ -1,0 +1,7 @@
+{
+  "env": {
+    "plugins": [
+      "flow-react-proptypes"
+    ]
+  }
+}

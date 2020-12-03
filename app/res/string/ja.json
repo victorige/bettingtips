@@ -1,0 +1,141 @@
+{
+  "tab_bar": {
+    "search": "番組検索",
+    "player": "再生リスト",
+    "menu": "ご利用案内"
+  },
+  "common": {
+    "edit": "編集",
+    "finish": "編集を終了する",
+    "title": "通知",
+    "error": "エラー",
+    "downloading": "ダウンロード中...",
+    "total_unread": "未読",
+    "time_expired": "予約購読の期限が切れました"
+  },
+  "tool_bar": {
+    "ja": "JP",
+    "en": "EN"
+  },
+  "search": {
+    "title": "番組検索",
+    "title_result": "検索結果",
+    "music_detail": "番組詳細",
+    "search": "検索",
+    "result": "検索結果",
+    "no_result_title": "検索結果 なし ：",
+    "search_tips": "検索のヒント\n短めの言葉や単語で検索してみてください。\n特定のアーティスト名よりも、イメージや用途での検索をおすすめします。",
+    "search_request_text": "お好みの番組がみつかりませんか？\nリクエストやご意見をお待ちしております。",
+    "go_request_screen": "→番組リクエストページへ"
+  },
+  "player": {
+    "title": "再生リスト",
+    "art_frame": "アートフレーム",
+    "back_to_playlist": "再生リストに戻る",
+    "on": "ON",
+    "off": "OFF",
+    "total_time": "Total Time",
+    "all_music_repeat": "全番組リピート再生",
+    "change_order_detail": "番組枠を長押しすると順番を入れ替えることができます",
+    "delete": "この番組を削除",
+    "hours": "時間",
+    "minute": "分",
+    "second": "秒",
+    "list": "リスト"
+  },
+  "menu": {
+    "menu": "ご利用案内",
+    "news": "お知らせ",
+    "news_detail": "お知らせ詳細",
+    "how_to_use": "ご利用方法",
+    "purchase": "ライセンス購入",
+    "license": "ライセンス保証書",
+    "policy": "ポリシー",
+    "copyright": "コピーライト",
+    "request_music": "番組リクエスト"
+  },
+  "purchase": {
+    "your_sub_plan": "現在のご利用状況",
+    "description_plan": "下記のライセンス料にて、このアプリ内の全ての音楽番組をご利用いただけます。",
+    "purchased": "購入中",
+    "upgrade": "購入する",
+    "user_1_playlist": "再生リストを1つ利用する",
+    "user_5_playlist": "再生リストを5つすべて利用する",
+    "transactions_law": "特定商取引法に基づく表記",
+    "footer": "450円プランから350円のプランへご変更される場合、再生リスト2〜5はご使用できなくなりますのでご注意ください。課金は自動更新されますので、更新を停止する場合はapp store/google playのアカウントページよりお手続きください。",
+    "month": "月"
+  },
+  "button": {
+    "audition": "試聴する",
+    "stop": "停止する",
+    "add_playlist": "再生リストへ追加する",
+    "back": "戻る",
+    "ok": "OK",
+    "close": "閉じる ×",
+    "delete": "削除",
+    "cancel": "キャンセル"
+  },
+  "placeholder": {
+    "search": "好きな言葉で音楽番組を検索"
+  },
+  "error": {
+    "error": "エラー",
+    "title_download_failed": "ダウンロードエラー",
+    "unknown": "不明な理由",
+    "have_no_playlist": "再生リストがありません。",
+    "can_not_delete": "再生中の音楽を削除することは出来ません！",
+    "can_not_play": "編集中に音楽を再生することは出来ません！",
+    "playlist_name_empty": "再生リスト名を入力してください。",
+    "cancel_download": "ダウンロードがキャンセルされました。",
+    "confirm_cancel_download": "ダウンロードがキャンセルされるようになりますが、よろしいですか？",
+    "download_error": "ダウンロードを完了出来ませんでした。もう一度お試しください。",
+    "music_error": "このファイルを再生することは出来ません。"
+  },
+  "message": {
+    "limit_time_playlist": "１つの再生リストで再生可能なのは24時間までです。",
+    "check_connection": "インターネット接続をもう一度チェックしてください。",
+    "input_name": "名前を入力してください",
+    "input_request": "リクエストを入力してください",
+    "art_frame_detail": "画面に触れるとプレーヤーが表示されます",
+    "saved_item_download": "削除しました。",
+    "delete_music": "番組を削除してもよろしいですか？",
+    "network_error": "ページ読込みエラー",
+    "network_error_content": "ページを開けません。インターネットに接続してください。",
+    "add_music_success": "追加しました。"
+  },
+  "request_music": {
+    "question": "番組をリクエストして下さい。",
+    "thanks": "ありがとうございました。新作情報はお知らせよりご確認下さい。",
+    "nickname": "ニックネーム",
+    "request": "本文\n\nこのアプリは、個人情報を必要としません。入力フォームへの個人情報の記載はお控えください。",
+    "submit": "送信"
+  },
+  "menu_tab": {
+    "news": "お知らせ",
+    "new": "新着",
+    "column": "コラム",
+    "how_to_you": "ご利用方法",
+    "question_and_answer": "Q&A",
+    "idea": "理念",
+    "terms_service": "ご利用規約",
+    "privacy_policy": "プライバシーポリシー"
+  },
+  "tutorial": {
+    "terms_of_use": "ご利用規約",
+    "policy": "プライバシーポリシー",
+    "agree": "同意する",
+    "content": "同意されない場合は、このアプリをご利用いただくことはできません。"
+  },
+  "error_code": {
+    "1": "トークンの期限が切れました",
+    "2": "トークンは無効になります",
+    "3": "トークンが必要です",
+    "4": "デバイスが無効です",
+    "5": "トークン作成に失敗しました",
+    "6": "音楽が見つかりません",
+    "7": "再生リストが見つかりません",
+    "8": "ニュースタグは既に存在しています",
+    "9": "支払いに失敗しました",
+    "10": "支払い期限が切れました"
+  }
+}
